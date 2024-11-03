@@ -1,6 +1,5 @@
 
 import { FaGithub, FaInstagram, FaLinkedin, FaTiktok } from "react-icons/fa";
-import { FaThreads } from "react-icons/fa6";
 
 export default function Navbar() {
     return(

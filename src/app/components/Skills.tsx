@@ -1,8 +1,8 @@
-import { BiLogoFlutter, BiLogoJquery, BiLogoPhp, BiLogoPostgresql, BiLogoPython } from "react-icons/bi";
-import { DiCss3, DiHtml5, DiJavascript, DiJqueryUiLogo, DiPhp, DiRedis } from "react-icons/di";
-import { FaNodeJs, FaPhp } from "react-icons/fa";
-import { RiBootstrapFill, RiReactjsFill, RiReactjsLine, RiTailwindCssFill } from "react-icons/ri";
-import { SiJquery, SiJsonwebtokens, SiLaravel, SiMongodb, SiMysql, SiPhp, SiPhpmyadmin, SiPostman } from "react-icons/si";
+import { BiLogoFlutter, BiLogoPhp, BiLogoPostgresql, BiLogoPython } from "react-icons/bi";
+import { DiHtml5 } from "react-icons/di";
+import { FaNodeJs} from "react-icons/fa";
+import { RiBootstrapFill, RiReactjsFill, RiTailwindCssFill } from "react-icons/ri";
+import { SiJsonwebtokens, SiLaravel,  SiMysql, SiPostman } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 import * as motion from "framer-motion/client";
 import { Variants } from "framer-motion";

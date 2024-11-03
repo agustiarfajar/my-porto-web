@@ -1,7 +1,6 @@
 import profilePic from "../assets/myProfile.jpg";
 import Image from "next/image";
 import { HERO_CONTENT } from "../constants";
-// import { motion } from "framer-motion";
 import * as motion from "framer-motion/client"
 
 const containerVariants = {
